@@ -99,6 +99,7 @@
 ####Q Promise 异步模式 
 + [HomePage](https://github.com/kriskowal/q)
 + [在Node.js 中用 Q 实现Promise – Callbacks之外的另一种选择](http://www.ituring.com.cn/article/54547)
++ [queue-fun 基于promise实现的运行队列](https://github.com/cnwhy/queue-fun)
 
 ####co
 + [HomePage](https://github.com/visionmedia/co)
